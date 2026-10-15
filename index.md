@@ -6,4 +6,4 @@
 - [Юридические документы](https://dinislam-y.github.io/englishfit-legal/)
 - [app-ads.txt](app-ads.txt)
 
-Поддержка: [englishfit.app@mail.ru](mailto:englishfit.app@mail.ru).
+Поддержка: [englishfit.help@mail.ru](mailto:englishfit.help@mail.ru).
